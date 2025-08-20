@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://d709e55238718f.lhr.life/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://d709e55238718f.lhr.life/bin/franklin.delivery/arthurquitescit/dxp-universal-editor/main"
     type: "markup"
     suffix: ".html"
