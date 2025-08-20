@@ -1,10 +1,10 @@
 {
   "mappings": [
     "/remover/content/aem-boilerplate/:/",
-    "/remover/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/remover/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-boilerplate/configuration:/.helix/config.json",
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
-    "/remover/icontent/aem-boilerplate/"
+    "/content/aem-boilerplate/"
   ]
 }
